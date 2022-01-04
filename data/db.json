@@ -1,19 +1,19 @@
 {
-    "items": [
-        {
-            "id": 1,
-            "checked": false,
-            "item": "Sweets"
-        },
-        {
-            "id": 2,
-            "checked": false,
-            "item": "Chips"
-        },
-        {
-            "id": 3,
-            "checked": false,
-            "item": "Banana"
-        }
-    ]
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Sweets"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Chips"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Banana"
+    }
+  ]
 }
